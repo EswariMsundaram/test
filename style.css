@@ -1,0 +1,55 @@
+section{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    background-color:#dbd78c94;
+}
+body{
+    text-align:center;
+    background-color:#a3dfe294;
+}
+ul{
+    display: inline;
+    text-align:left;
+    align-items:first baseline;
+    margin-right: 30px;
+    
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.name
+{
+    font-style: italic;
+    font-size:medium;
+}
+
+
+img{
+    max-height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: rgb(100, 6, 6);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
